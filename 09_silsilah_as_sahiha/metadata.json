@@ -1,0 +1,26 @@
+{
+  "book_id": 9,
+  "book_key": "silsilah_as_sahiha",
+  "folder": "09_silsilah_as_sahiha",
+  "title_english": "Silsilat al-Ahadith as-Sahiha",
+  "title_urdu": "سلسلہ احادیث صحیحہ",
+  "title_arabic": "سلسلة الأحاديث الصحيحة",
+  "author_english": "Shaykh Muhammad Nasiruddin al-Albani",
+  "author_urdu": "علامہ محمد ناصر الدین البانی",
+  "author_arabic": "الشيخ محمد ناصر الدين الألباني",
+  "total_hadiths": 3704,
+  "total_chapters": 28,
+  "has_arabic": true,
+  "has_urdu": true,
+  "has_english": false,
+  "files": {
+    "complete_json": "complete.json",
+    "arabic_json": "arabic.json",
+    "arabic_txt": "arabic.txt",
+    "urdu_json": "urdu.json",
+    "urdu_txt": "urdu.txt",
+    "english_json": null,
+    "english_txt": null,
+    "chapters_json": "chapters.json"
+  }
+}
