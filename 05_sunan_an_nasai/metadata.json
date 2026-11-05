@@ -1,0 +1,26 @@
+{
+  "book_id": 5,
+  "book_key": "sunan_an_nasai",
+  "folder": "05_sunan_an_nasai",
+  "title_english": "Sunan an-Nasa'i",
+  "title_urdu": "سنن نسائی",
+  "title_arabic": "سنن النسائي",
+  "author_english": "Imam Ahmad an-Nasa'i",
+  "author_urdu": "امام احمد بن شعیب نسائی",
+  "author_arabic": "الإمام أحمد بن شعيب النسائي",
+  "total_hadiths": 5761,
+  "total_chapters": 53,
+  "has_arabic": true,
+  "has_urdu": true,
+  "has_english": true,
+  "files": {
+    "complete_json": "complete.json",
+    "arabic_json": "arabic.json",
+    "arabic_txt": "arabic.txt",
+    "urdu_json": "urdu.json",
+    "urdu_txt": "urdu.txt",
+    "english_json": "english.json",
+    "english_txt": "english.txt",
+    "chapters_json": "chapters.json"
+  }
+}
