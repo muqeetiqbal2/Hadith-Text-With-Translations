@@ -1,0 +1,26 @@
+{
+  "book_id": 3,
+  "book_key": "sunan_abi_dawood",
+  "folder": "03_sunan_abi_dawood",
+  "title_english": "Sunan Abi Dawood",
+  "title_urdu": "سنن ابی داؤد",
+  "title_arabic": "سنن أبي داود",
+  "author_english": "Imam Abu Dawood",
+  "author_urdu": "امام ابو داؤد سلیمان بن اشعث",
+  "author_arabic": "الإمام أبو داود السجستاني",
+  "total_hadiths": 5274,
+  "total_chapters": 43,
+  "has_arabic": true,
+  "has_urdu": true,
+  "has_english": true,
+  "files": {
+    "complete_json": "complete.json",
+    "arabic_json": "arabic.json",
+    "arabic_txt": "arabic.txt",
+    "urdu_json": "urdu.json",
+    "urdu_txt": "urdu.txt",
+    "english_json": "english.json",
+    "english_txt": "english.txt",
+    "chapters_json": "chapters.json"
+  }
+}

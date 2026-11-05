@@ -1,0 +1,303 @@
+[
+  {
+    "chapter_id": 1,
+    "chapter_number": 1,
+    "chapter_urdu": "طہارت کے مسائل",
+    "chapter_english": "Purification (Kitab Al-Taharah)",
+    "total_hadiths": 390
+  },
+  {
+    "chapter_id": 2,
+    "chapter_number": 2,
+    "chapter_urdu": "نماز کے احکام و مسائل",
+    "chapter_english": "Prayer (Kitab Al-Salat)",
+    "total_hadiths": 770
+  },
+  {
+    "chapter_id": 3,
+    "chapter_number": 3,
+    "chapter_urdu": "نماز استسقاء کے احکام ومسائل",
+    "chapter_english": "The Book Of The Prayer For Rain (Kitab al-Istisqa)",
+    "total_hadiths": 37
+  },
+  {
+    "chapter_id": 4,
+    "chapter_number": 4,
+    "chapter_urdu": "نماز سفر کے احکام و مسائل",
+    "chapter_english": "Prayer (Kitab Al-Salat): Detailed Rules of Law about the Prayer during Journey",
+    "total_hadiths": 52
+  },
+  {
+    "chapter_id": 5,
+    "chapter_number": 5,
+    "chapter_urdu": "نوافل اور سنتوں کے احکام و مسائل",
+    "chapter_english": "Prayer (Kitab Al-Salat): Voluntary Prayers",
+    "total_hadiths": 121
+  },
+  {
+    "chapter_id": 6,
+    "chapter_number": 6,
+    "chapter_urdu": "ماہ رمضان المبارک کے احکام و مسائل",
+    "chapter_english": "Prayer (Kitab Al-Salat): Detailed Injunctions about Ramadan",
+    "total_hadiths": 30
+  },
+  {
+    "chapter_id": 7,
+    "chapter_number": 7,
+    "chapter_urdu": "سجدہ تلاوت کے احکام و مسائل",
+    "chapter_english": "Prayer (Kitab Al-Salat): Prostration while reciting the Qur'an",
+    "total_hadiths": 15
+  },
+  {
+    "chapter_id": 8,
+    "chapter_number": 8,
+    "chapter_urdu": "وتر کے فروعی احکام و مسائل",
+    "chapter_english": "Prayer (Kitab Al-Salat): Detailed Injunctions about Witr",
+    "total_hadiths": 140
+  },
+  {
+    "chapter_id": 9,
+    "chapter_number": 9,
+    "chapter_urdu": "زکوۃ کے احکام و مسائل",
+    "chapter_english": "Zakat (Kitab Al-Zakat)",
+    "total_hadiths": 145
+  },
+  {
+    "chapter_id": 10,
+    "chapter_number": 10,
+    "chapter_urdu": "گری پڑی گمشدہ چیزوں سے متعلق مسائل",
+    "chapter_english": "The Book of Lost and Found Items",
+    "total_hadiths": 20
+  },
+  {
+    "chapter_id": 11,
+    "chapter_number": 11,
+    "chapter_urdu": "اعمال حج اور اس کے احکام و مسائل",
+    "chapter_english": "The Rites of Hajj (Kitab Al-Manasik Wa'l-Hajj)",
+    "total_hadiths": 325
+  },
+  {
+    "chapter_id": 12,
+    "chapter_number": 12,
+    "chapter_urdu": "نکاح کے احکام و مسائل",
+    "chapter_english": "Marriage (Kitab Al-Nikah)",
+    "total_hadiths": 129
+  },
+  {
+    "chapter_id": 13,
+    "chapter_number": 13,
+    "chapter_urdu": "طلاق کے فروعی احکام و مسائل",
+    "chapter_english": "Divorce (Kitab Al-Talaq)",
+    "total_hadiths": 138
+  },
+  {
+    "chapter_id": 14,
+    "chapter_number": 14,
+    "chapter_urdu": "روزوں کے احکام و مسائل",
+    "chapter_english": "Fasting (Kitab Al-Siyam)",
+    "total_hadiths": 164
+  },
+  {
+    "chapter_id": 15,
+    "chapter_number": 15,
+    "chapter_urdu": "جہاد کے مسائل",
+    "chapter_english": "Jihad (Kitab Al-Jihad)",
+    "total_hadiths": 311
+  },
+  {
+    "chapter_id": 16,
+    "chapter_number": 16,
+    "chapter_urdu": "قربانی کے مسائل",
+    "chapter_english": "Sacrifice (Kitab Al-Dahaya)",
+    "total_hadiths": 56
+  },
+  {
+    "chapter_id": 17,
+    "chapter_number": 17,
+    "chapter_urdu": "شكار ‌كے ‌احكام ‌و مسائل",
+    "chapter_english": "Game (Kitab Al-Said)",
+    "total_hadiths": 18
+  },
+  {
+    "chapter_id": 18,
+    "chapter_number": 18,
+    "chapter_urdu": "وصیت کے احکام و مسائل",
+    "chapter_english": "Wills (Kitab Al-Wasaya)",
+    "total_hadiths": 23
+  },
+  {
+    "chapter_id": 19,
+    "chapter_number": 19,
+    "chapter_urdu": "وراثت کے احکام و مسائل",
+    "chapter_english": "Shares of Inheritance (Kitab Al-Fara'id)",
+    "total_hadiths": 43
+  },
+  {
+    "chapter_id": 20,
+    "chapter_number": 20,
+    "chapter_urdu": "محصورات اراضی اور امارت سے متعلق احکام و مسائل",
+    "chapter_english": "Tribute, Spoils, and Rulership (Kitab Al-Kharaj, Wal-Fai' Wal-Imarah)",
+    "total_hadiths": 161
+  },
+  {
+    "chapter_id": 21,
+    "chapter_number": 21,
+    "chapter_urdu": "جنازے کے احکام و مسائل",
+    "chapter_english": "Funerals (Kitab Al-Jana'iz)",
+    "total_hadiths": 153
+  },
+  {
+    "chapter_id": 22,
+    "chapter_number": 22,
+    "chapter_urdu": "قسم کھانے اور نذر کے احکام و مسائل",
+    "chapter_english": "Oaths and Vows (Kitab Al-Aiman Wa Al-Nudhur)",
+    "total_hadiths": 84
+  },
+  {
+    "chapter_id": 23,
+    "chapter_number": 23,
+    "chapter_urdu": "خرید و فروخت کے احکام و مسائل",
+    "chapter_english": "Commercial Transactions (Kitab Al-Buyu)",
+    "total_hadiths": 90
+  },
+  {
+    "chapter_id": 24,
+    "chapter_number": 24,
+    "chapter_urdu": "اجارے کے احکام و مسائل",
+    "chapter_english": "Wages (Kitab Al-Ijarah)",
+    "total_hadiths": 155
+  },
+  {
+    "chapter_id": 25,
+    "chapter_number": 25,
+    "chapter_urdu": "قضاء کے متعلق احکام و مسائل",
+    "chapter_english": "The Office of the Judge (Kitab Al-Aqdiyah)",
+    "total_hadiths": 70
+  },
+  {
+    "chapter_id": 26,
+    "chapter_number": 26,
+    "chapter_urdu": "علم کے مسائل",
+    "chapter_english": "Knowledge (Kitab Al-Ilm)",
+    "total_hadiths": 28
+  },
+  {
+    "chapter_id": 27,
+    "chapter_number": 27,
+    "chapter_urdu": "مشروبات سے متعلق احکام و مسائل",
+    "chapter_english": "Drinks (Kitab Al-Ashribah)",
+    "total_hadiths": 67
+  },
+  {
+    "chapter_id": 28,
+    "chapter_number": 28,
+    "chapter_urdu": "کھانے کے متعلق احکام و مسائل",
+    "chapter_english": "Foods (Kitab Al-At'imah)",
+    "total_hadiths": 119
+  },
+  {
+    "chapter_id": 29,
+    "chapter_number": 29,
+    "chapter_urdu": "علاج کے احکام و مسائل",
+    "chapter_english": "Medicine (Kitab Al-Tibb)",
+    "total_hadiths": 49
+  },
+  {
+    "chapter_id": 30,
+    "chapter_number": 30,
+    "chapter_urdu": "کہانت اور بدفالی سے متعلق احکام و مسائل",
+    "chapter_english": "Divination and Omens (Kitab Al-Kahanah Wa Al-Tatayyur)",
+    "total_hadiths": 22
+  },
+  {
+    "chapter_id": 31,
+    "chapter_number": 31,
+    "chapter_urdu": "غلاموں کی آزادی سے متعلق احکام و مسائل",
+    "chapter_english": "The Book of Manumission of Slaves",
+    "total_hadiths": 43
+  },
+  {
+    "chapter_id": 32,
+    "chapter_number": 32,
+    "chapter_urdu": "قرآن کریم کی بابت لہجوں اور قراتوں کا بیان",
+    "chapter_english": "Dialects and Readings of the Qur'an (Kitab Al-Huruf Wa Al-Qira'at)",
+    "total_hadiths": 40
+  },
+  {
+    "chapter_id": 33,
+    "chapter_number": 33,
+    "chapter_urdu": "حمامات ( اجتماعی غسل خانوں) سے متعلق مسائل",
+    "chapter_english": "Hot Baths (Kitab Al-Hammam)",
+    "total_hadiths": 11
+  },
+  {
+    "chapter_id": 34,
+    "chapter_number": 34,
+    "chapter_urdu": "لباس سے متعلق احکام و مسائل",
+    "chapter_english": "Clothing (Kitab Al-Libas)",
+    "total_hadiths": 139
+  },
+  {
+    "chapter_id": 35,
+    "chapter_number": 35,
+    "chapter_urdu": "بالوں اور کنگھی چوٹی کے احکام و مسائل",
+    "chapter_english": "Combing the Hair (Kitab Al-Tarajjul)",
+    "total_hadiths": 55
+  },
+  {
+    "chapter_id": 36,
+    "chapter_number": 36,
+    "chapter_urdu": "انگوٹھیوں سے متعلق احکام و مسائل",
+    "chapter_english": "Signet-Rings (Kitab Al-Khatam)",
+    "total_hadiths": 26
+  },
+  {
+    "chapter_id": 37,
+    "chapter_number": 37,
+    "chapter_urdu": "فتنوں اور جنگوں کا بیان",
+    "chapter_english": "Trials and Fierce Battles (Kitab Al-Fitan Wa Al-Malahim)",
+    "total_hadiths": 39
+  },
+  {
+    "chapter_id": 38,
+    "chapter_number": 38,
+    "chapter_urdu": "مہدی کا بیان",
+    "chapter_english": "The Promised Deliverer (Kitab Al-Mahdi)",
+    "total_hadiths": 12
+  },
+  {
+    "chapter_id": 39,
+    "chapter_number": 39,
+    "chapter_urdu": "اہم معرکوں کا بیان جو امت میں ہونے والے ہیں",
+    "chapter_english": "Battles (Kitab Al-Malahim)",
+    "total_hadiths": 60
+  },
+  {
+    "chapter_id": 40,
+    "chapter_number": 40,
+    "chapter_urdu": "حدود اور تعزیرات کا بیان",
+    "chapter_english": "Prescribed Punishments (Kitab Al-Hudud)",
+    "total_hadiths": 143
+  },
+  {
+    "chapter_id": 41,
+    "chapter_number": 41,
+    "chapter_urdu": "دیتوں کا بیان",
+    "chapter_english": "Types of Blood-Wit (Kitab Al-Diyat)",
+    "total_hadiths": 102
+  },
+  {
+    "chapter_id": 42,
+    "chapter_number": 42,
+    "chapter_urdu": "سنتوں کا بیان",
+    "chapter_english": "Model Behavior of the Prophet (Kitab Al-Sunnah)",
+    "total_hadiths": 177
+  },
+  {
+    "chapter_id": 43,
+    "chapter_number": 43,
+    "chapter_urdu": "آداب و اخلاق کا بیان",
+    "chapter_english": "General Behavior (Kitab Al-Adab)",
+    "total_hadiths": 502
+  }
+]
