@@ -1,0 +1,23 @@
+{
+  "book_id": 11,
+  "book_key": "forty_hadith_nawawi",
+  "folder": "11_forty_hadith_nawawi",
+  "title_english": "An-Nawawi's Forty Hadith",
+  "title_urdu": "اربعین نووی",
+  "title_arabic": "الأربعون النووية",
+  "author_english": "Imam Yahya ibn Sharaf an-Nawawi (631–676 AH / 1233–1277 CE)",
+  "author_urdu": "امام ابو زکریا یحییٰ بن شرف النووی رحمہ اللہ",
+  "author_arabic": "الإمام يحيى بن شرف النووي",
+  "total_hadiths": 42,
+  "total_chapters": 1,
+  "has_arabic": true,
+  "has_urdu": false,
+  "has_english": true,
+  "files": {
+    "metadata": "metadata.json",
+    "chapters": "chapters.json",
+    "complete": "complete.json",
+    "arabic": "arabic.json",
+    "english": "english.json"
+  }
+}

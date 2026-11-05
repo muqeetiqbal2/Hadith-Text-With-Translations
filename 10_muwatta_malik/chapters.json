@@ -1,0 +1,322 @@
+[
+  {
+    "chapter_id": 1,
+    "chapter_number": 1,
+    "chapter_urdu": "Book 1",
+    "chapter_english": "Book 1",
+    "chapter_arabic": "Book 1",
+    "total_hadiths": 11
+  },
+  {
+    "chapter_id": 2,
+    "chapter_number": 2,
+    "chapter_urdu": "Book 2",
+    "chapter_english": "Book 2",
+    "chapter_arabic": "Book 2",
+    "total_hadiths": 38
+  },
+  {
+    "chapter_id": 3,
+    "chapter_number": 3,
+    "chapter_urdu": "Book 3",
+    "chapter_english": "Book 3",
+    "chapter_arabic": "Book 3",
+    "total_hadiths": 25
+  },
+  {
+    "chapter_id": 4,
+    "chapter_number": 4,
+    "chapter_urdu": "Book 4",
+    "chapter_english": "Book 4",
+    "chapter_arabic": "Book 4",
+    "total_hadiths": 1
+  },
+  {
+    "chapter_id": 5,
+    "chapter_number": 5,
+    "chapter_urdu": "Book 5",
+    "chapter_english": "Book 5",
+    "chapter_arabic": "Book 5",
+    "total_hadiths": 7
+  },
+  {
+    "chapter_id": 6,
+    "chapter_number": 6,
+    "chapter_urdu": "Book 6",
+    "chapter_english": "Book 6",
+    "chapter_arabic": "Book 6",
+    "total_hadiths": 3
+  },
+  {
+    "chapter_id": 7,
+    "chapter_number": 7,
+    "chapter_urdu": "Book 7",
+    "chapter_english": "Book 7",
+    "chapter_arabic": "Book 7",
+    "total_hadiths": 11
+  },
+  {
+    "chapter_id": 8,
+    "chapter_number": 8,
+    "chapter_urdu": "Book 8",
+    "chapter_english": "Book 8",
+    "chapter_arabic": "Book 8",
+    "total_hadiths": 13
+  },
+  {
+    "chapter_id": 9,
+    "chapter_number": 9,
+    "chapter_urdu": "Book 9",
+    "chapter_english": "Book 9",
+    "chapter_arabic": "Book 9",
+    "total_hadiths": 34
+  },
+  {
+    "chapter_id": 10,
+    "chapter_number": 10,
+    "chapter_urdu": "Book 10",
+    "chapter_english": "Book 10",
+    "chapter_arabic": "Book 10",
+    "total_hadiths": 4
+  },
+  {
+    "chapter_id": 11,
+    "chapter_number": 11,
+    "chapter_urdu": "Book 11",
+    "chapter_english": "Book 11",
+    "chapter_arabic": "Book 11",
+    "total_hadiths": 1
+  },
+  {
+    "chapter_id": 12,
+    "chapter_number": 12,
+    "chapter_urdu": "Book 12",
+    "chapter_english": "Book 12",
+    "chapter_arabic": "Book 12",
+    "total_hadiths": 2
+  },
+  {
+    "chapter_id": 13,
+    "chapter_number": 13,
+    "chapter_urdu": "Book 13",
+    "chapter_english": "Book 13",
+    "chapter_arabic": "Book 13",
+    "total_hadiths": 2
+  },
+  {
+    "chapter_id": 14,
+    "chapter_number": 14,
+    "chapter_urdu": "Book 14",
+    "chapter_english": "Book 14",
+    "chapter_arabic": "Book 14",
+    "total_hadiths": 5
+  },
+  {
+    "chapter_id": 15,
+    "chapter_number": 15,
+    "chapter_urdu": "Book 15",
+    "chapter_english": "Book 15",
+    "chapter_arabic": "Book 15",
+    "total_hadiths": 16
+  },
+  {
+    "chapter_id": 16,
+    "chapter_number": 16,
+    "chapter_urdu": "Book 16",
+    "chapter_english": "Book 16",
+    "chapter_arabic": "Book 16",
+    "total_hadiths": 19
+  },
+  {
+    "chapter_id": 17,
+    "chapter_number": 17,
+    "chapter_urdu": "Book 17",
+    "chapter_english": "Book 17",
+    "chapter_arabic": "Book 17",
+    "total_hadiths": 17
+  },
+  {
+    "chapter_id": 18,
+    "chapter_number": 18,
+    "chapter_urdu": "Book 18",
+    "chapter_english": "Book 18",
+    "chapter_arabic": "Book 18",
+    "total_hadiths": 20
+  },
+  {
+    "chapter_id": 19,
+    "chapter_number": 19,
+    "chapter_urdu": "Book 19",
+    "chapter_english": "Book 19",
+    "chapter_arabic": "Book 19",
+    "total_hadiths": 4
+  },
+  {
+    "chapter_id": 20,
+    "chapter_number": 20,
+    "chapter_urdu": "Book 20",
+    "chapter_english": "Book 20",
+    "chapter_arabic": "Book 20",
+    "total_hadiths": 84
+  },
+  {
+    "chapter_id": 21,
+    "chapter_number": 21,
+    "chapter_urdu": "Book 21",
+    "chapter_english": "Book 21",
+    "chapter_arabic": "Book 21",
+    "total_hadiths": 15
+  },
+  {
+    "chapter_id": 22,
+    "chapter_number": 22,
+    "chapter_urdu": "Book 22",
+    "chapter_english": "Book 22",
+    "chapter_arabic": "Book 22",
+    "total_hadiths": 7
+  },
+  {
+    "chapter_id": 23,
+    "chapter_number": 23,
+    "chapter_urdu": "Book 23",
+    "chapter_english": "Book 23",
+    "chapter_arabic": "Book 23",
+    "total_hadiths": 4
+  },
+  {
+    "chapter_id": 24,
+    "chapter_number": 24,
+    "chapter_urdu": "Book 24",
+    "chapter_english": "Book 24",
+    "chapter_arabic": "Book 24",
+    "total_hadiths": 4
+  },
+  {
+    "chapter_id": 25,
+    "chapter_number": 25,
+    "chapter_urdu": "Book 25",
+    "chapter_english": "Book 25",
+    "chapter_arabic": "Book 25",
+    "total_hadiths": 3
+  },
+  {
+    "chapter_id": 26,
+    "chapter_number": 26,
+    "chapter_urdu": "Book 26",
+    "chapter_english": "Book 26",
+    "chapter_arabic": "Book 26",
+    "total_hadiths": 2
+  },
+  {
+    "chapter_id": 27,
+    "chapter_number": 27,
+    "chapter_urdu": "Book 27",
+    "chapter_english": "Book 27",
+    "chapter_arabic": "Book 27",
+    "total_hadiths": 5
+  },
+  {
+    "chapter_id": 28,
+    "chapter_number": 28,
+    "chapter_urdu": "Book 28",
+    "chapter_english": "Book 28",
+    "chapter_arabic": "Book 28",
+    "total_hadiths": 19
+  },
+  {
+    "chapter_id": 29,
+    "chapter_number": 29,
+    "chapter_urdu": "Book 29",
+    "chapter_english": "Book 29",
+    "chapter_arabic": "Book 29",
+    "total_hadiths": 40
+  },
+  {
+    "chapter_id": 30,
+    "chapter_number": 30,
+    "chapter_urdu": "Book 30",
+    "chapter_english": "Book 30",
+    "chapter_arabic": "Book 30",
+    "total_hadiths": 6
+  },
+  {
+    "chapter_id": 31,
+    "chapter_number": 31,
+    "chapter_urdu": "Book 31",
+    "chapter_english": "Book 31",
+    "chapter_arabic": "Book 31",
+    "total_hadiths": 32
+  },
+  {
+    "chapter_id": 32,
+    "chapter_number": 32,
+    "chapter_urdu": "Book 32",
+    "chapter_english": "Book 32",
+    "chapter_arabic": "Book 32",
+    "total_hadiths": 1
+  },
+  {
+    "chapter_id": 33,
+    "chapter_number": 33,
+    "chapter_urdu": "Book 34",
+    "chapter_english": "Book 34",
+    "chapter_arabic": "Book 34",
+    "total_hadiths": 1
+  },
+  {
+    "chapter_id": 34,
+    "chapter_number": 34,
+    "chapter_urdu": "Book 35",
+    "chapter_english": "Book 35",
+    "chapter_arabic": "Book 35",
+    "total_hadiths": 1
+  },
+  {
+    "chapter_id": 35,
+    "chapter_number": 35,
+    "chapter_urdu": "Book 36",
+    "chapter_english": "Book 36",
+    "chapter_arabic": "Book 36",
+    "total_hadiths": 19
+  },
+  {
+    "chapter_id": 36,
+    "chapter_number": 36,
+    "chapter_urdu": "Book 37",
+    "chapter_english": "Book 37",
+    "chapter_arabic": "Book 37",
+    "total_hadiths": 3
+  },
+  {
+    "chapter_id": 37,
+    "chapter_number": 37,
+    "chapter_urdu": "Book 38",
+    "chapter_english": "Book 38",
+    "chapter_arabic": "Book 38",
+    "total_hadiths": 8
+  },
+  {
+    "chapter_id": 38,
+    "chapter_number": 38,
+    "chapter_urdu": "Book 39",
+    "chapter_english": "Book 39",
+    "chapter_arabic": "Book 39",
+    "total_hadiths": 2
+  },
+  {
+    "chapter_id": 39,
+    "chapter_number": 39,
+    "chapter_urdu": "Book 40",
+    "chapter_english": "Book 40",
+    "chapter_arabic": "Book 40",
+    "total_hadiths": 1
+  },
+  {
+    "chapter_id": 40,
+    "chapter_number": 40,
+    "chapter_urdu": "Book 41",
+    "chapter_english": "Book 41",
+    "chapter_arabic": "Book 41",
+    "total_hadiths": 10
+  }
+]

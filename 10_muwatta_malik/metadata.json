@@ -1,0 +1,23 @@
+{
+  "book_id": 10,
+  "book_key": "muwatta_malik",
+  "folder": "10_muwatta_malik",
+  "title_english": "Muwatta Malik",
+  "title_urdu": "موطأ امام مالک",
+  "title_arabic": "موطأ الإمام مالك",
+  "author_english": "Imam Malik ibn Anas (93–179 AH / 711–795 CE)",
+  "author_urdu": "امام مالک بن انس رحمہ اللہ",
+  "author_arabic": "الإمام مالك بن أنس",
+  "total_hadiths": 500,
+  "total_chapters": 40,
+  "has_arabic": true,
+  "has_urdu": false,
+  "has_english": true,
+  "files": {
+    "metadata": "metadata.json",
+    "chapters": "chapters.json",
+    "complete": "complete.json",
+    "arabic": "arabic.json",
+    "english": "english.json"
+  }
+}
