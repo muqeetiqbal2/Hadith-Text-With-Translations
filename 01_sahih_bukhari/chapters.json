@@ -1,0 +1,695 @@
+[
+  {
+    "chapter_id": 1,
+    "chapter_number": 1,
+    "chapter_urdu": "کتاب وحی کے بیان میں",
+    "chapter_english": "THE BOOK OF REVELATION.",
+    "total_hadiths": 7
+  },
+  {
+    "chapter_id": 2,
+    "chapter_number": 2,
+    "chapter_urdu": "کتاب ایمان کے بیان میں",
+    "chapter_english": "THE BOOK OF BELIEF (FAITH).",
+    "total_hadiths": 51
+  },
+  {
+    "chapter_id": 3,
+    "chapter_number": 3,
+    "chapter_urdu": "کتاب علم کے بیان میں",
+    "chapter_english": "THE BOOK OF KNOWLEDGE.",
+    "total_hadiths": 76
+  },
+  {
+    "chapter_id": 4,
+    "chapter_number": 4,
+    "chapter_urdu": "کتاب وضو کے بیان میں",
+    "chapter_english": "THE BOOK OF WUDU (ABLUTION).",
+    "total_hadiths": 113
+  },
+  {
+    "chapter_id": 5,
+    "chapter_number": 5,
+    "chapter_urdu": "کتاب غسل کے احکام و مسائل",
+    "chapter_english": "THE BOOK OF GHUSL (WASHING OF THE WHOLE BODY).",
+    "total_hadiths": 46
+  },
+  {
+    "chapter_id": 6,
+    "chapter_number": 6,
+    "chapter_urdu": "کتاب حیض کے احکام و مسائل",
+    "chapter_english": "THE BOOK OF MENSES (MENSTRUAL PERIODS).",
+    "total_hadiths": 40
+  },
+  {
+    "chapter_id": 7,
+    "chapter_number": 7,
+    "chapter_urdu": "کتاب تیمم کے احکام و مسائل",
+    "chapter_english": "THE BOOK OF TAYAMMUM (RUBBING HANDS AND FEET WITH DUST).",
+    "total_hadiths": 15
+  },
+  {
+    "chapter_id": 8,
+    "chapter_number": 8,
+    "chapter_urdu": "کتاب نماز کے احکام و مسائل",
+    "chapter_english": "THE BOOK OF AS-SALAT (THE PRAYER).",
+    "total_hadiths": 172
+  },
+  {
+    "chapter_id": 9,
+    "chapter_number": 9,
+    "chapter_urdu": "کتاب اوقات نماز کے بیان میں",
+    "chapter_english": "THE BOOK OF THE TIMES OF AS-SALAT (THE PRAYERS) AND ITS SUPERIORITY.",
+    "total_hadiths": 82
+  },
+  {
+    "chapter_id": 10,
+    "chapter_number": 10,
+    "chapter_urdu": "کتاب اذان کے مسائل کے بیان میں",
+    "chapter_english": "THE BOOK OF ADHAN.",
+    "total_hadiths": 132
+  },
+  {
+    "chapter_id": 11,
+    "chapter_number": 11,
+    "chapter_urdu": "کتاب اذان کے مسائل کے بیان میں (صفة الصلوة)",
+    "chapter_english": "THE BOOK OF ADHAN (SUFA-TUS-SALAT).",
+    "total_hadiths": 141
+  },
+  {
+    "chapter_id": 12,
+    "chapter_number": 12,
+    "chapter_urdu": "کتاب جمعہ کے بیان میں",
+    "chapter_english": "THE BOOK OF AL-JUMUAH (FRIDAY).",
+    "total_hadiths": 66
+  },
+  {
+    "chapter_id": 13,
+    "chapter_number": 13,
+    "chapter_urdu": "کتاب نماز خوف کا بیان",
+    "chapter_english": "THE BOOK OF SALAT-UL-KHAUF (FEAR PRAYER).",
+    "total_hadiths": 6
+  },
+  {
+    "chapter_id": 14,
+    "chapter_number": 14,
+    "chapter_urdu": "کتاب عیدین کے مسائل کے بیان میں",
+    "chapter_english": "THE BOOK OF THE TWO EID (PRAYERS AND FESTIVALS).",
+    "total_hadiths": 42
+  },
+  {
+    "chapter_id": 15,
+    "chapter_number": 15,
+    "chapter_urdu": "کتاب نماز وتر کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF WITR.",
+    "total_hadiths": 15
+  },
+  {
+    "chapter_id": 16,
+    "chapter_number": 16,
+    "chapter_urdu": "کتاب استسقاء یعنی پانی مانگنے کا بیان",
+    "chapter_english": "THE BOOK OF AL-ISTISQA.",
+    "total_hadiths": 35
+  },
+  {
+    "chapter_id": 17,
+    "chapter_number": 17,
+    "chapter_urdu": "کتاب سورج گرہن کے متعلق بیان",
+    "chapter_english": "THE BOOK OF THE ECLIPSES.",
+    "total_hadiths": 27
+  },
+  {
+    "chapter_id": 18,
+    "chapter_number": 18,
+    "chapter_urdu": "کتاب سجود قرآن کے مسائل",
+    "chapter_english": "THE BOOK OF PROSTRATION DURING THE RECITATION OF THE QURAN.",
+    "total_hadiths": 13
+  },
+  {
+    "chapter_id": 19,
+    "chapter_number": 19,
+    "chapter_urdu": "کتاب نماز میں قصر کرنے کا بیان",
+    "chapter_english": "THE BOOK OF ABRIDGED OR SHORTENED PRAYERS (AT-TAQSIR).",
+    "total_hadiths": 40
+  },
+  {
+    "chapter_id": 20,
+    "chapter_number": 20,
+    "chapter_urdu": "کتاب تہجد کا بیان",
+    "chapter_english": "THE BOOK OF SALAT-UT-TAHAJJUD (NIGHT PRAYER).",
+    "total_hadiths": 68
+  },
+  {
+    "chapter_id": 21,
+    "chapter_number": 21,
+    "chapter_urdu": "کتاب مکہ و مدینہ میں نماز کی فضیلت",
+    "chapter_english": "THE BOOK OF THE SUPERIORITY OF OFFERING AS-SALAT IN THE MOSQUE OF MAKKAH AND AL-MADINA.",
+    "total_hadiths": 10
+  },
+  {
+    "chapter_id": 22,
+    "chapter_number": 22,
+    "chapter_urdu": "کتاب نماز کے کام کے بارے میں",
+    "chapter_english": "THE BOOK OF DEALING WITH ACTIONS IN AS-SALAT (THE PRAYER).",
+    "total_hadiths": 26
+  },
+  {
+    "chapter_id": 23,
+    "chapter_number": 23,
+    "chapter_urdu": "کتاب سجدہ سھو کا بیان",
+    "chapter_english": "THE BOOK OF AS-SAHW (FORGETTING).",
+    "total_hadiths": 13
+  },
+  {
+    "chapter_id": 24,
+    "chapter_number": 24,
+    "chapter_urdu": "کتاب جنازے کے احکام و مسائل",
+    "chapter_english": "THE BOOK OF AL-JANAIZ (FUNERALS).",
+    "total_hadiths": 158
+  },
+  {
+    "chapter_id": 25,
+    "chapter_number": 25,
+    "chapter_urdu": "کتاب زکوۃ کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF ZAKAT.",
+    "total_hadiths": 118
+  },
+  {
+    "chapter_id": 26,
+    "chapter_number": 26,
+    "chapter_urdu": "کتاب حج کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF HAJJ.",
+    "total_hadiths": 260
+  },
+  {
+    "chapter_id": 27,
+    "chapter_number": 27,
+    "chapter_urdu": "کتاب عمرہ کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF AL-UMRA.",
+    "total_hadiths": 33
+  },
+  {
+    "chapter_id": 28,
+    "chapter_number": 28,
+    "chapter_urdu": "كتاب ‌محرم ‌كے ‌روكے ‌جانے ‌كے ‌بیان ‌میں ‌",
+    "chapter_english": "THE BOOK OF AL-MUHSAR",
+    "total_hadiths": 15
+  },
+  {
+    "chapter_id": 29,
+    "chapter_number": 29,
+    "chapter_urdu": "كتاب ‌شكار ‌كے ‌بدلے ‌كا ‌بیان",
+    "chapter_english": "THE BOOK OF PENALTY FOR HUNTING",
+    "total_hadiths": 46
+  },
+  {
+    "chapter_id": 30,
+    "chapter_number": 30,
+    "chapter_urdu": "کتاب مدینہ کے فضائل کا بیان",
+    "chapter_english": "THE BOOK ABOUT THE VIRTUES OR AL-MADINA.",
+    "total_hadiths": 24
+  },
+  {
+    "chapter_id": 31,
+    "chapter_number": 31,
+    "chapter_urdu": "کتاب روزے کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF AS-SAUM (THE FASTING).",
+    "total_hadiths": 117
+  },
+  {
+    "chapter_id": 32,
+    "chapter_number": 32,
+    "chapter_urdu": "کتاب نماز تراویح پڑھنے کا بیان",
+    "chapter_english": "THE BOOK OF TARAWIH PRAYERS.",
+    "total_hadiths": 6
+  },
+  {
+    "chapter_id": 33,
+    "chapter_number": 33,
+    "chapter_urdu": "کتاب لیلۃ القدر کا بیان",
+    "chapter_english": "THE BOOK OF SUPERIORITY OF THE NIGHT OF QADR.",
+    "total_hadiths": 11
+  },
+  {
+    "chapter_id": 34,
+    "chapter_number": 34,
+    "chapter_urdu": "کتاب اعتکاف کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF ITIKAF.",
+    "total_hadiths": 22
+  },
+  {
+    "chapter_id": 35,
+    "chapter_number": 35,
+    "chapter_urdu": "کتاب خرید و فروخت کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF SALES (BARGAINS).",
+    "total_hadiths": 192
+  },
+  {
+    "chapter_id": 36,
+    "chapter_number": 36,
+    "chapter_urdu": "کتاب بیع سلم کے بیان میں",
+    "chapter_english": "THE BOOK OF AS-SALAM.",
+    "total_hadiths": 18
+  },
+  {
+    "chapter_id": 37,
+    "chapter_number": 37,
+    "chapter_urdu": "کتاب شفعہ کے بیان میں",
+    "chapter_english": "THE BOOK OF PRE- EMPTION.",
+    "total_hadiths": 3
+  },
+  {
+    "chapter_id": 38,
+    "chapter_number": 38,
+    "chapter_urdu": "کتاب اجرت کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF HIRING.",
+    "total_hadiths": 27
+  },
+  {
+    "chapter_id": 39,
+    "chapter_number": 39,
+    "chapter_urdu": "کتاب حوالہ کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF AL-HAWALAT.",
+    "total_hadiths": 3
+  },
+  {
+    "chapter_id": 40,
+    "chapter_number": 40,
+    "chapter_urdu": "کتاب کفالت کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF AL-KAFALA.",
+    "total_hadiths": 9
+  },
+  {
+    "chapter_id": 41,
+    "chapter_number": 41,
+    "chapter_urdu": "کتاب وکالت کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF REPRESENTATION.",
+    "total_hadiths": 21
+  },
+  {
+    "chapter_id": 42,
+    "chapter_number": 42,
+    "chapter_urdu": "کتاب کھیتی باڑی اور بٹائی کا بیان",
+    "chapter_english": "THE BOOK OF CULTIVATION AND AGRICULTURE.",
+    "total_hadiths": 31
+  },
+  {
+    "chapter_id": 43,
+    "chapter_number": 43,
+    "chapter_urdu": "کتاب مساقات کے بیان میں",
+    "chapter_english": "THE BOOK OF WATERING.",
+    "total_hadiths": 34
+  },
+  {
+    "chapter_id": 44,
+    "chapter_number": 44,
+    "chapter_urdu": "کتاب قرض لینے ادا کرنے حجر اور مفلسی منظور کرنے کے بیان میں",
+    "chapter_english": "THE BOOK OF LOANS, FREEZING OF PROPERTY, AND BANKRUPTCY.",
+    "total_hadiths": 25
+  },
+  {
+    "chapter_id": 45,
+    "chapter_number": 45,
+    "chapter_urdu": "کتاب نالشوں اور جھگڑوں کے بیان میں",
+    "chapter_english": "THE BOOK OF QUARRELS.",
+    "total_hadiths": 16
+  },
+  {
+    "chapter_id": 46,
+    "chapter_number": 46,
+    "chapter_urdu": "کتاب لقطہ یعنی گری پڑی چیزوں کے بارے میں احکام",
+    "chapter_english": "THE BOOK or AL-LUQATA.",
+    "total_hadiths": 14
+  },
+  {
+    "chapter_id": 47,
+    "chapter_number": 47,
+    "chapter_urdu": "کتاب ظلم اور مال غصب کرنے کے بیان میں",
+    "chapter_english": "THE BOOK OF AL-MAZALIM.",
+    "total_hadiths": 43
+  },
+  {
+    "chapter_id": 48,
+    "chapter_number": 48,
+    "chapter_urdu": "کتاب شراکت کے مسائل کے بیان میں",
+    "chapter_english": "THE BOOK OF PARTNERSHIP.",
+    "total_hadiths": 25
+  },
+  {
+    "chapter_id": 49,
+    "chapter_number": 49,
+    "chapter_urdu": "کتاب رہن کے بیان میں",
+    "chapter_english": "THE BOOK OF MORTGAGING IN PLACES OCCUPIED BY SETTLED POPULATION.",
+    "total_hadiths": 9
+  },
+  {
+    "chapter_id": 50,
+    "chapter_number": 50,
+    "chapter_urdu": "کتاب غلاموں کی آزادی کے بیان میں",
+    "chapter_english": "THE BOOK OF MANUMISSION (OF SLAVES).",
+    "total_hadiths": 43
+  },
+  {
+    "chapter_id": 51,
+    "chapter_number": 51,
+    "chapter_urdu": "کتاب مکاتب کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF AL-MUKATAB.",
+    "total_hadiths": 6
+  },
+  {
+    "chapter_id": 52,
+    "chapter_number": 52,
+    "chapter_urdu": "کتاب ہبہ کےمسائل فضیلت اور ترغیب کا بیان",
+    "chapter_english": "THE BOOK OF GIFTS AND THE SUPERIORITY OF GIVING GIFTS AND THE EXHORTATION FOR GIVING GIFTS.",
+    "total_hadiths": 71
+  },
+  {
+    "chapter_id": 53,
+    "chapter_number": 53,
+    "chapter_urdu": "کتاب گواہوں کے متعلق مسائل کا بیان",
+    "chapter_english": "THE BOOK OF WITNESSES.",
+    "total_hadiths": 53
+  },
+  {
+    "chapter_id": 54,
+    "chapter_number": 54,
+    "chapter_urdu": "کتاب صلح کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF PEACEMAKING.",
+    "total_hadiths": 21
+  },
+  {
+    "chapter_id": 55,
+    "chapter_number": 55,
+    "chapter_urdu": "کتاب شرائط کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF CONDITIONS.",
+    "total_hadiths": 27
+  },
+  {
+    "chapter_id": 56,
+    "chapter_number": 56,
+    "chapter_urdu": "کتاب وصیتوں کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF WASAYA (Wills and Testaments).",
+    "total_hadiths": 44
+  },
+  {
+    "chapter_id": 57,
+    "chapter_number": 57,
+    "chapter_urdu": "کتاب جہاد کا بیان",
+    "chapter_english": "THE BOOK OF JIHAD (Fighting for Allah’s Cause).",
+    "total_hadiths": 309
+  },
+  {
+    "chapter_id": 58,
+    "chapter_number": 58,
+    "chapter_urdu": "کتاب خمس کے فرض ہونے کا بیان",
+    "chapter_english": "THE BOOK OF THE OBLIGATIONS OF KHUMUS.",
+    "total_hadiths": 65
+  },
+  {
+    "chapter_id": 59,
+    "chapter_number": 59,
+    "chapter_urdu": "کتاب جزیہ وغیرہ کے بیان میں",
+    "chapter_english": "THE BOOK OF AL-JIZYA AND THE STOPPAGE OF WAR.",
+    "total_hadiths": 34
+  },
+  {
+    "chapter_id": 60,
+    "chapter_number": 60,
+    "chapter_urdu": "کتاب اس بیان میں کہ مخلوق کی پیدائش کیونکر شروع ہوئی",
+    "chapter_english": "THE BOOK OF THE BEGINNING OF CREATION.",
+    "total_hadiths": 136
+  },
+  {
+    "chapter_id": 61,
+    "chapter_number": 61,
+    "chapter_urdu": "کتاب انبیاء علیہم السلام کے بیان میں",
+    "chapter_english": "THE BOOK OF THE STORIES OF THE PROPHETS.",
+    "total_hadiths": 163
+  },
+  {
+    "chapter_id": 62,
+    "chapter_number": 62,
+    "chapter_urdu": "کتاب فضیلتوں کے بیان میں",
+    "chapter_english": "THE BOOK OF VIRTUES.",
+    "total_hadiths": 160
+  },
+  {
+    "chapter_id": 63,
+    "chapter_number": 63,
+    "chapter_urdu": "نبی کریم صلی اللہ علیہ وسلم کے اصحاب کی فضیلت",
+    "chapter_english": "THE VIRTUES AND MERITS OF THE COMPANIONS OF THE PROPHET.",
+    "total_hadiths": 127
+  },
+  {
+    "chapter_id": 64,
+    "chapter_number": 64,
+    "chapter_urdu": "انصار کے مناقب",
+    "chapter_english": "THE MERITS OF AL-ANSAR.",
+    "total_hadiths": 173
+  },
+  {
+    "chapter_id": 65,
+    "chapter_number": 65,
+    "chapter_urdu": "کتاب غزوات کے بیان میں",
+    "chapter_english": "THE BOOK OF AL- MAGHAZI.",
+    "total_hadiths": 525
+  },
+  {
+    "chapter_id": 66,
+    "chapter_number": 66,
+    "chapter_urdu": "قرآن پاک کی تفسیر کے بیان میں",
+    "chapter_english": "THE BOOK OF COMMENTARY.",
+    "total_hadiths": 504
+  },
+  {
+    "chapter_id": 67,
+    "chapter_number": 67,
+    "chapter_urdu": "کتاب قرآن کے فضائل کا بیان",
+    "chapter_english": "THE BOOK OF THE VIRTUES OF THE QURAN.",
+    "total_hadiths": 85
+  },
+  {
+    "chapter_id": 68,
+    "chapter_number": 68,
+    "chapter_urdu": "کتاب نکاح کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF (The Wedlock).",
+    "total_hadiths": 188
+  },
+  {
+    "chapter_id": 69,
+    "chapter_number": 69,
+    "chapter_urdu": "کتاب طلاق کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF DIVORCE.",
+    "total_hadiths": 100
+  },
+  {
+    "chapter_id": 70,
+    "chapter_number": 70,
+    "chapter_urdu": "کتاب خرچہ دینے کے بیان میں",
+    "chapter_english": "THE BOOK OF PROVISION (Outlay).",
+    "total_hadiths": 22
+  },
+  {
+    "chapter_id": 71,
+    "chapter_number": 71,
+    "chapter_urdu": "کتاب کھانوں کے بیان میں",
+    "chapter_english": "THE BOOK OF FOODS (Meals).",
+    "total_hadiths": 94
+  },
+  {
+    "chapter_id": 72,
+    "chapter_number": 72,
+    "chapter_urdu": "کتاب عقیقہ کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF Al-AQIQA.",
+    "total_hadiths": 8
+  },
+  {
+    "chapter_id": 73,
+    "chapter_number": 73,
+    "chapter_urdu": "کتاب ذبیح اور شکار کے بیان میں",
+    "chapter_english": "THE BOOK OF SLAUGHTERING AND HUNTING.",
+    "total_hadiths": 70
+  },
+  {
+    "chapter_id": 74,
+    "chapter_number": 74,
+    "chapter_urdu": "کتاب قربانی کے مسائل کا بیان",
+    "chapter_english": "THE BOOK OF AL-ADAHI.",
+    "total_hadiths": 30
+  },
+  {
+    "chapter_id": 75,
+    "chapter_number": 75,
+    "chapter_urdu": "کتاب مشروبات کے بیان میں",
+    "chapter_english": "THE BOOK OF DRINKS.",
+    "total_hadiths": 65
+  },
+  {
+    "chapter_id": 76,
+    "chapter_number": 76,
+    "chapter_urdu": "کتاب امراض اور ان کے علاج کے بیان میں",
+    "chapter_english": "THE BOOK OF PATIENTS.",
+    "total_hadiths": 38
+  },
+  {
+    "chapter_id": 77,
+    "chapter_number": 77,
+    "chapter_urdu": "کتاب دوا اور علاج کے بیان میں",
+    "chapter_english": "THE BOOK OF MEDICINE.",
+    "total_hadiths": 105
+  },
+  {
+    "chapter_id": 78,
+    "chapter_number": 78,
+    "chapter_urdu": "کتاب لباس کے بیان میں",
+    "chapter_english": "THE BOOK OF DRESS.",
+    "total_hadiths": 187
+  },
+  {
+    "chapter_id": 79,
+    "chapter_number": 79,
+    "chapter_urdu": "کتاب اخلاق کے بیان میں",
+    "chapter_english": "THE BOOK OF AL-ADAB (Good Manners).",
+    "total_hadiths": 257
+  },
+  {
+    "chapter_id": 80,
+    "chapter_number": 80,
+    "chapter_urdu": "کتاب اجازت لینے کے بیان میں",
+    "chapter_english": "THE BOOK OF ASKING PERMISSION.",
+    "total_hadiths": 77
+  },
+  {
+    "chapter_id": 81,
+    "chapter_number": 81,
+    "chapter_urdu": "کتاب دعاؤں کے بیان میں",
+    "chapter_english": "THE BOOK OF INVOCATIONS.",
+    "total_hadiths": 108
+  },
+  {
+    "chapter_id": 82,
+    "chapter_number": 82,
+    "chapter_urdu": "کتاب دل کو نرم کرنے والی باتوں کے بیان میں",
+    "chapter_english": "THE BOOK OF AR-RIQAQ (Softening of the Hearts).",
+    "total_hadiths": 182
+  },
+  {
+    "chapter_id": 83,
+    "chapter_number": 83,
+    "chapter_urdu": "کتاب تقدیر کے بیان میں",
+    "chapter_english": "THE BOOK OF AL-QADAR (Divine Preordainment).",
+    "total_hadiths": 27
+  },
+  {
+    "chapter_id": 84,
+    "chapter_number": 84,
+    "chapter_urdu": "کتاب قسموں اور نذروں کے بیان میں",
+    "chapter_english": "THE BOOK OF OATHS AND VOWS.",
+    "total_hadiths": 87
+  },
+  {
+    "chapter_id": 85,
+    "chapter_number": 85,
+    "chapter_urdu": "کتاب قسموں کے کفارہ کے بیان میں",
+    "chapter_english": "THE BOOK OF THE EXPIATION OF UNFULFILLED OATHS.",
+    "total_hadiths": 15
+  },
+  {
+    "chapter_id": 86,
+    "chapter_number": 86,
+    "chapter_urdu": "کتاب فرائض یعنی ترکہ کے حصوں کے بیان میں",
+    "chapter_english": "THE BOOK OF Al-FARAD (The Laws of Inheritance).",
+    "total_hadiths": 49
+  },
+  {
+    "chapter_id": 87,
+    "chapter_number": 87,
+    "chapter_urdu": "کتاب حد اور سزاؤں کے بیان میں",
+    "chapter_english": "THE BOOK OF AL-HUDUD.",
+    "total_hadiths": 30
+  },
+  {
+    "chapter_id": 88,
+    "chapter_number": 88,
+    "chapter_urdu": "کتاب ان کفار و مرتدوں کے احکام میں جو مسلمانوں سے لڑتے ہیں",
+    "chapter_english": "THE BOOK OF AL-MAHARBEEN.",
+    "total_hadiths": 59
+  },
+  {
+    "chapter_id": 89,
+    "chapter_number": 89,
+    "chapter_urdu": "کتاب دیتوں کے بیان میں",
+    "chapter_english": "THE BOOK OF AD-DIYAIT (Blood - Money).",
+    "total_hadiths": 57
+  },
+  {
+    "chapter_id": 90,
+    "chapter_number": 90,
+    "chapter_urdu": "کتاب باغیوں اور مرتدوں سے توبہ کرانے کا بیان",
+    "chapter_english": "THE BOOK OF OBLIGING THE APOSTATES AND THE REPENTANCE OF THOSE WHO REFUSE THE TRUTH OBSTINATELY, AND TO FIGHT AGAINST SUCH PEOPLE",
+    "total_hadiths": 22
+  },
+  {
+    "chapter_id": 91,
+    "chapter_number": 91,
+    "chapter_urdu": "کتاب زبردستی کام کرانے کے بیان میں",
+    "chapter_english": "THE BOOK OF AL-IKRAH (Coercion).",
+    "total_hadiths": 13
+  },
+  {
+    "chapter_id": 92,
+    "chapter_number": 92,
+    "chapter_urdu": "کتاب شرعی حیلوں کے بیان میں",
+    "chapter_english": "THE BOOK OF TRICKS.",
+    "total_hadiths": 29
+  },
+  {
+    "chapter_id": 93,
+    "chapter_number": 93,
+    "chapter_urdu": "کتاب خوابوں کی تعبیر کے بیان میں",
+    "chapter_english": "THE BOOK OF THE INTERPRETATION OF DREAMS.",
+    "total_hadiths": 66
+  },
+  {
+    "chapter_id": 94,
+    "chapter_number": 94,
+    "chapter_urdu": "کتاب فتنوں کے بیان میں",
+    "chapter_english": "THE BOOK OF AL-FITAN.",
+    "total_hadiths": 89
+  },
+  {
+    "chapter_id": 95,
+    "chapter_number": 95,
+    "chapter_urdu": "کتاب حکومت اور قضا کے بیان میں",
+    "chapter_english": "THE BOOK OF AL-AHKAM (Judgements).",
+    "total_hadiths": 89
+  },
+  {
+    "chapter_id": 96,
+    "chapter_number": 96,
+    "chapter_urdu": "کتاب نیک ترین آرزؤں کے جائز ہونے کے بیان میں",
+    "chapter_english": "THE BOOK OF WISHES.",
+    "total_hadiths": 20
+  },
+  {
+    "chapter_id": 97,
+    "chapter_number": 97,
+    "chapter_urdu": "کتاب خبر واحد کے بیان میں",
+    "chapter_english": "THE BOOK ABOUT THE INFORMATION GIVEN BY ONE PERSON.",
+    "total_hadiths": 22
+  },
+  {
+    "chapter_id": 98,
+    "chapter_number": 98,
+    "chapter_urdu": "کتاب اللہ اور سنت رسول اللہ صلی اللہ علیہ وسلم کو مضبوطی سے تھامے رہنا",
+    "chapter_english": "THE BOOK OF HOLDING FAST TO THE QUR’AN AND THE SUNNA.",
+    "total_hadiths": 103
+  },
+  {
+    "chapter_id": 99,
+    "chapter_number": 99,
+    "chapter_urdu": "اللہ کی توحید اس کی ذات اور صفات کے بیان میں",
+    "chapter_english": "THE BOOK OF TAUHID (Islamic Monotheism).",
+    "total_hadiths": 193
+  }
+]

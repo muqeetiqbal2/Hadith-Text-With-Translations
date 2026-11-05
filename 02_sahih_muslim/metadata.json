@@ -1,0 +1,26 @@
+{
+  "book_id": 2,
+  "book_key": "sahih_muslim",
+  "folder": "02_sahih_muslim",
+  "title_english": "Sahih Muslim",
+  "title_urdu": "صحیح مسلم",
+  "title_arabic": "صحيح مسلم",
+  "author_english": "Imam Muslim ibn al-Hajjaj",
+  "author_urdu": "امام مسلم بن حجاج نیشاپوری",
+  "author_arabic": "الإمام مسلم بن الحجاج القشيري النيسابوري",
+  "total_hadiths": 7564,
+  "total_chapters": 56,
+  "has_arabic": true,
+  "has_urdu": true,
+  "has_english": true,
+  "files": {
+    "complete_json": "complete.json",
+    "arabic_json": "arabic.json",
+    "arabic_txt": "arabic.txt",
+    "urdu_json": "urdu.json",
+    "urdu_txt": "urdu.txt",
+    "english_json": "english.json",
+    "english_txt": "english.txt",
+    "chapters_json": "chapters.json"
+  }
+}

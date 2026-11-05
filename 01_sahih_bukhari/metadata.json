@@ -1,0 +1,26 @@
+{
+  "book_id": 1,
+  "book_key": "sahih_bukhari",
+  "folder": "01_sahih_bukhari",
+  "title_english": "Sahih al-Bukhari",
+  "title_urdu": "صحیح بخاری",
+  "title_arabic": "صحيح البخاري",
+  "author_english": "Imam Muhammad al-Bukhari",
+  "author_urdu": "امام محمد بن اسماعیل بخاری",
+  "author_arabic": "الإمام محمد بن إسماعيل البخاري",
+  "total_hadiths": 7563,
+  "total_chapters": 99,
+  "has_arabic": true,
+  "has_urdu": true,
+  "has_english": true,
+  "files": {
+    "complete_json": "complete.json",
+    "arabic_json": "arabic.json",
+    "arabic_txt": "arabic.txt",
+    "urdu_json": "urdu.json",
+    "urdu_txt": "urdu.txt",
+    "english_json": "english.json",
+    "english_txt": "english.txt",
+    "chapters_json": "chapters.json"
+  }
+}

@@ -1,0 +1,394 @@
+[
+  {
+    "chapter_id": 0,
+    "chapter_number": 1,
+    "chapter_urdu": "مقدمہ صحیح مسلم",
+    "chapter_english": "Introduction",
+    "total_hadiths": 93
+  },
+  {
+    "chapter_id": 1,
+    "chapter_number": 2,
+    "chapter_urdu": "کتاب: ایمان کا بیان",
+    "chapter_english": "The Book of Faith",
+    "total_hadiths": 441
+  },
+  {
+    "chapter_id": 2,
+    "chapter_number": 3,
+    "chapter_urdu": "کتاب: پاکی کا بیان",
+    "chapter_english": "The Book of Purification",
+    "total_hadiths": 145
+  },
+  {
+    "chapter_id": 3,
+    "chapter_number": 4,
+    "chapter_urdu": "کتاب: حیض کا معنی و مفہوم",
+    "chapter_english": "The Book of Menstruation",
+    "total_hadiths": 158
+  },
+  {
+    "chapter_id": 4,
+    "chapter_number": 5,
+    "chapter_urdu": "کتاب: نماز کے احکام ومسائل",
+    "chapter_english": "The Book of Prayers",
+    "total_hadiths": 324
+  },
+  {
+    "chapter_id": 5,
+    "chapter_number": 6,
+    "chapter_urdu": "کتاب: مسجدیں اور نماز کی جگہیں",
+    "chapter_english": "The Book of Mosques and Places of Prayer",
+    "total_hadiths": 409
+  },
+  {
+    "chapter_id": 6,
+    "chapter_number": 7,
+    "chapter_urdu": "کتاب: مسافرو ں کی نماز قصر کا بیان",
+    "chapter_english": "The Book of Prayer - Travellers",
+    "total_hadiths": 267
+  },
+  {
+    "chapter_id": 7,
+    "chapter_number": 8,
+    "chapter_urdu": "قرآن کے فضائل اور متعلقہ امور",
+    "chapter_english": "The Book Of the Merit Of The Holy Quran",
+    "total_hadiths": 114
+  },
+  {
+    "chapter_id": 8,
+    "chapter_number": 9,
+    "chapter_urdu": "کتاب: جمعہ کے احکام و مسائل",
+    "chapter_english": "The Book of Prayer - Friday",
+    "total_hadiths": 93
+  },
+  {
+    "chapter_id": 9,
+    "chapter_number": 10,
+    "chapter_urdu": "کتاب: نماز عیدین کے احکام و مسائل",
+    "chapter_english": "The Book of Prayer - Two Eids",
+    "total_hadiths": 26
+  },
+  {
+    "chapter_id": 10,
+    "chapter_number": 11,
+    "chapter_urdu": "کتاب: بارش طلب کرنے کی نماز",
+    "chapter_english": "The Book of Prayer - Rain",
+    "total_hadiths": 19
+  },
+  {
+    "chapter_id": 11,
+    "chapter_number": 12,
+    "chapter_urdu": "کتاب: سورج اور چاند گرہن کے احکام",
+    "chapter_english": "The Book of Prayer - Eclipses",
+    "total_hadiths": 34
+  },
+  {
+    "chapter_id": 12,
+    "chapter_number": 13,
+    "chapter_urdu": "کتاب: جنازے کے احکام و مسائل",
+    "chapter_english": "The Book of Prayer - Funerals",
+    "total_hadiths": 140
+  },
+  {
+    "chapter_id": 13,
+    "chapter_number": 14,
+    "chapter_urdu": "کتاب: زکوٰۃ کے احکام و مسائل",
+    "chapter_english": "The Book of Zakat",
+    "total_hadiths": 232
+  },
+  {
+    "chapter_id": 14,
+    "chapter_number": 15,
+    "chapter_urdu": "کتاب: روزے کے احکام و مسائل",
+    "chapter_english": "The Book of Fasting",
+    "total_hadiths": 285
+  },
+  {
+    "chapter_id": 15,
+    "chapter_number": 16,
+    "chapter_urdu": "کتاب: اعتکاف کے احکام ومسائل",
+    "chapter_english": "The Book of Aetikaaf",
+    "total_hadiths": 11
+  },
+  {
+    "chapter_id": 16,
+    "chapter_number": 17,
+    "chapter_urdu": "کتاب: حج کے احکام ومسائل",
+    "chapter_english": "The Book of Pilgrimage",
+    "total_hadiths": 607
+  },
+  {
+    "chapter_id": 17,
+    "chapter_number": 18,
+    "chapter_urdu": "کتاب: نکاح کے احکام و مسائل",
+    "chapter_english": "The Book of Marriage",
+    "total_hadiths": 170
+  },
+  {
+    "chapter_id": 18,
+    "chapter_number": 19,
+    "chapter_urdu": "کتاب: رضاعت کے احکام ومسائل",
+    "chapter_english": "The Book of Suckling",
+    "total_hadiths": 84
+  },
+  {
+    "chapter_id": 19,
+    "chapter_number": 20,
+    "chapter_urdu": "کتاب: طلاق کے احکام ومسائل",
+    "chapter_english": "The Book of Divorce",
+    "total_hadiths": 91
+  },
+  {
+    "chapter_id": 20,
+    "chapter_number": 21,
+    "chapter_urdu": "لعان کا بیان",
+    "chapter_english": "The Book of Invoking Curses\n",
+    "total_hadiths": 27
+  },
+  {
+    "chapter_id": 21,
+    "chapter_number": 22,
+    "chapter_urdu": "کتاب: غلامی سے آزادی کا بیان",
+    "chapter_english": "The Book of Emancipating Slaves\n",
+    "total_hadiths": 31
+  },
+  {
+    "chapter_id": 22,
+    "chapter_number": 23,
+    "chapter_urdu": "کتاب: لین دین کے مسائل",
+    "chapter_english": "The Book of Transactions",
+    "total_hadiths": 161
+  },
+  {
+    "chapter_id": 23,
+    "chapter_number": 24,
+    "chapter_urdu": "کتاب: سیرابی کے عوض پیدوار میں  حصہ داری اور مزارعت",
+    "chapter_english": "The Book Of Musaqah",
+    "total_hadiths": 178
+  },
+  {
+    "chapter_id": 24,
+    "chapter_number": 25,
+    "chapter_urdu": "کتاب: وراثت کے مقررہ حصوں کا بیان",
+    "chapter_english": "The Book Of The Rules Of Inheritance",
+    "total_hadiths": 23
+  },
+  {
+    "chapter_id": 25,
+    "chapter_number": 26,
+    "chapter_urdu": "کتاب: عطیہ کی گئی چیزوں کا بیان",
+    "chapter_english": "The Book Of Gifts",
+    "total_hadiths": 41
+  },
+  {
+    "chapter_id": 26,
+    "chapter_number": 27,
+    "chapter_urdu": "کتاب: وصیت کے احکام ومسائل",
+    "chapter_english": "The Book Of Wills",
+    "total_hadiths": 31
+  },
+  {
+    "chapter_id": 27,
+    "chapter_number": 28,
+    "chapter_urdu": "کتاب: نذر(منت ماننے )کے احکام و مسائل",
+    "chapter_english": "The Book Of Vows",
+    "total_hadiths": 19
+  },
+  {
+    "chapter_id": 28,
+    "chapter_number": 29,
+    "chapter_urdu": "کتاب: قسموں کا بیان",
+    "chapter_english": "The Book Of  Oaths",
+    "total_hadiths": 88
+  },
+  {
+    "chapter_id": 29,
+    "chapter_number": 30,
+    "chapter_urdu": "کتاب: قتل کی ذمہ داری کی تعیین کے لیے اجتماعی قسموںاور لوٹ ےمار کرنے والوں(کی سزا)قصاص اور دیت کے مسائل",
+    "chapter_english": "The Book Of Oaths,Muharibin,Qasas( Retaliation), and Diyat (blood Money_",
+    "total_hadiths": 56
+  },
+  {
+    "chapter_id": 30,
+    "chapter_number": 31,
+    "chapter_urdu": "کتاب: حدود کا بیان",
+    "chapter_english": "The Book Of Legal Punishments",
+    "total_hadiths": 72
+  },
+  {
+    "chapter_id": 31,
+    "chapter_number": 32,
+    "chapter_urdu": "کتاب: جھگڑو ں میں فیصلے کرنے کے طریقے اور آداب",
+    "chapter_english": "The Book Of JudiCial Decisions",
+    "total_hadiths": 28
+  },
+  {
+    "chapter_id": 32,
+    "chapter_number": 33,
+    "chapter_urdu": "کتاب: کسی کو ملنے والی ایسی چیز جس کے مالک کا پتہ نہ ہو",
+    "chapter_english": "The Book Of Lost Property",
+    "total_hadiths": 21
+  },
+  {
+    "chapter_id": 33,
+    "chapter_number": 34,
+    "chapter_urdu": "کتاب: جہاد اور اس کے دوران میں رسول اللہ ‌صلی ‌اللہ ‌علیہ ‌وسلم ‌  کے اختیار کردہ طریقے",
+    "chapter_english": "The Book Of Jihad And Expeditions",
+    "total_hadiths": 182
+  },
+  {
+    "chapter_id": 34,
+    "chapter_number": 35,
+    "chapter_urdu": "کتاب: امور حکومت کا بیان",
+    "chapter_english": "The Book of Government",
+    "total_hadiths": 271
+  },
+  {
+    "chapter_id": 35,
+    "chapter_number": 36,
+    "chapter_urdu": "کتاب: شکار کرنے،ذبح کیےجانے والے اور ان جانوروں کا بیان جن کا گوشت کھایا جاسکتا ہے",
+    "chapter_english": "The Book of Hunting , Slaughter and what may be Eaten",
+    "total_hadiths": 92
+  },
+  {
+    "chapter_id": 36,
+    "chapter_number": 37,
+    "chapter_urdu": "کتاب: قربانی کے احکام ومسائل",
+    "chapter_english": "The Book of of Sacrifices",
+    "total_hadiths": 63
+  },
+  {
+    "chapter_id": 37,
+    "chapter_number": 38,
+    "chapter_urdu": "کتاب: مشروبات کا بیان",
+    "chapter_english": "The Book of of Drink",
+    "total_hadiths": 258
+  },
+  {
+    "chapter_id": 38,
+    "chapter_number": 39,
+    "chapter_urdu": "کتاب: لباس اور زینت کے احکام",
+    "chapter_english": "The Book of Clothes and Adornment",
+    "total_hadiths": 201
+  },
+  {
+    "chapter_id": 39,
+    "chapter_number": 40,
+    "chapter_urdu": "کتاب: معاشرتی آداب کا بیان",
+    "chapter_english": "The Book of Manners and Etiquette",
+    "total_hadiths": 60
+  },
+  {
+    "chapter_id": 40,
+    "chapter_number": 41,
+    "chapter_urdu": "کتاب: سلامتی اور صحت کابیان",
+    "chapter_english": "The Book of Greetings",
+    "total_hadiths": 216
+  },
+  {
+    "chapter_id": 41,
+    "chapter_number": 42,
+    "chapter_urdu": "کتاب: ادب اور دوسری باتوں(عقیدے اورانسانی رویوں)سے متعلق الفاظ",
+    "chapter_english": "The Book Concerning the use of Correct Words",
+    "total_hadiths": 23
+  },
+  {
+    "chapter_id": 42,
+    "chapter_number": 43,
+    "chapter_urdu": "کتاب: شعروشاعری کابیان",
+    "chapter_english": "The Book of Poetry",
+    "total_hadiths": 12
+  },
+  {
+    "chapter_id": 43,
+    "chapter_number": 44,
+    "chapter_urdu": "کتاب: خواب کا بیان",
+    "chapter_english": "The Book of Dreams",
+    "total_hadiths": 41
+  },
+  {
+    "chapter_id": 44,
+    "chapter_number": 45,
+    "chapter_urdu": "کتاب: أنبیاء کرام علیہم السلام کے فضائل کا بیان",
+    "chapter_english": "The Book of Virtues",
+    "total_hadiths": 231
+  },
+  {
+    "chapter_id": 45,
+    "chapter_number": 46,
+    "chapter_urdu": "کتاب: صحابہ کرام رضی اللہ عنہم کے فضائل ومناقب",
+    "chapter_english": "The Book of the Merits of the Companions",
+    "total_hadiths": 331
+  },
+  {
+    "chapter_id": 46,
+    "chapter_number": 47,
+    "chapter_urdu": "کتاب: حسن سلوک‘صلہ رحمی اور ادب",
+    "chapter_english": "The Book of Virtue, Enjoining Good Manners, and Joining of the Ties of Kinshio",
+    "total_hadiths": 223
+  },
+  {
+    "chapter_id": 47,
+    "chapter_number": 48,
+    "chapter_urdu": "کتاب: تقدیر کا بیان",
+    "chapter_english": "The Book of Destiny",
+    "total_hadiths": 52
+  },
+  {
+    "chapter_id": 48,
+    "chapter_number": 49,
+    "chapter_urdu": "کتاب: علم کا بیان",
+    "chapter_english": "The Book of Knowledge",
+    "total_hadiths": 30
+  },
+  {
+    "chapter_id": 49,
+    "chapter_number": 50,
+    "chapter_urdu": "کتاب: ذکر الٰہی‘دعا ‘توبہ اور استغفار",
+    "chapter_english": "The Book Pertaining to the Remembrance of Allah , Supplication , Repentance and Seeking Forgiveness",
+    "total_hadiths": 147
+  },
+  {
+    "chapter_id": 50,
+    "chapter_number": 51,
+    "chapter_urdu": "کتاب: توبہ کا بیان",
+    "chapter_english": "The Book of Repentance",
+    "total_hadiths": 72
+  },
+  {
+    "chapter_id": 51,
+    "chapter_number": 52,
+    "chapter_urdu": "کتاب: منافقین کی صفات  اور ان کے  بارے میں احکام",
+    "chapter_english": "Characteristics of the Hypocrites and Rulings Covering Them",
+    "total_hadiths": 106
+  },
+  {
+    "chapter_id": 52,
+    "chapter_number": 53,
+    "chapter_urdu": "کتاب: جنت‘اس کی نعمتیں اور اہل جنت",
+    "chapter_english": "The Book of Paradise , its Description , its Bouties and its Inhabitants",
+    "total_hadiths": 105
+  },
+  {
+    "chapter_id": 53,
+    "chapter_number": 54,
+    "chapter_urdu": "کتاب: فتنے اور علامات ِقیامت",
+    "chapter_english": "The Book of Tribulations and Protents of the Last Hour",
+    "total_hadiths": 182
+  },
+  {
+    "chapter_id": 54,
+    "chapter_number": 55,
+    "chapter_urdu": "کتاب: زہد اور رقت انگیز باتیں",
+    "chapter_english": "The Book of Zuhd and Softening of Hearts",
+    "total_hadiths": 106
+  },
+  {
+    "chapter_id": 55,
+    "chapter_number": 56,
+    "chapter_urdu": "کتاب: قرآن مجید کی تفسیر  کا بیان",
+    "chapter_english": "The Book of Comentary on the Quran",
+    "total_hadiths": 41
+  }
+]
